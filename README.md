@@ -1,3 +1,3 @@
 # LOOOOOOOOOOOOOOOOps
-Loops functions!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-And Codition function.
+Loops functions,
+ Conditional functions.
